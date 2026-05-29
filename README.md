@@ -31,6 +31,8 @@ A full-stack task management application that uses AI to help you prioritize sma
 
 ## Screenshots
 
+<img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/b5d1a1dd-6c54-4e81-a35c-b15745e27329" />
+<img width="1916" height="874" alt="image" src="https://github.com/user-attachments/assets/384b1332-1942-4f56-9a84-6de35fa7dbe0" />
 
 ---
 
